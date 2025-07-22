@@ -20,7 +20,6 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-<<<<<<< HEAD
 # OS
 .DS_Store
 
@@ -50,13 +49,6 @@ lerna-debug.log*
 .env.test.local
 .env.production.local
 .env.local
-=======
-# dotenv environment variable files
-.env
-.env.development
-.env.test
-.env.production
->>>>>>> a1102650c9f3f373da20cfc77a69973f60a515cf
 
 # temp directory
 .temp
